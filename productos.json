@@ -74,91 +74,91 @@
     {
         "codigo": "013",
         "nombre": "BUZO SMA. TRINIDAD PRIMARIO TALLE 4",
-        "precio": 18500,
+        "precio": 21300,
         "stock": 0
     },
     {
         "codigo": "014",
         "nombre": "BUZO SMA. TRINIDAD PRIMARIO TALLE 6",
-        "precio": 20000,
+        "precio": 23000,
         "stock": 0
     },
     {
         "codigo": "015",
         "nombre": "BUZO SMA. TRINIDAD PRIMARIO TALLE 8",
-        "precio": 23200,
+        "precio": 26700,
         "stock": 0
     },
     {
         "codigo": "016",
         "nombre": "BUZO SMA. TRINIDAD PRIMARIO TALLE 10",
-        "precio": 24000,
+        "precio": 27600,
         "stock": 0
     },
     {
         "codigo": "017",
         "nombre": "BUZO SMA. TRINIDAD PRIMARIO TALLE 12",
-        "precio": 24500,
+        "precio": 28200,
         "stock": 0
     },
     {
         "codigo": "018",
         "nombre": "BUZO SMA. TRINIDAD PRIMARIO TALLE 14",
-        "precio": 25000,
+        "precio": 28800,
         "stock": 0
     },
     {
         "codigo": "019",
         "nombre": "BUZO SMA. TRINIDAD PRIMARIO TALLE 16",
-        "precio": 25500,
+        "precio": 29300,
         "stock": 0
     },
     {
         "codigo": "020",
         "nombre": "BUZO SMA. TRINIDAD SECUNDARIO TALLE 2",
-        "precio": 23500,
+        "precio": 27000,
         "stock": 0
     },
     {
         "codigo": "021",
         "nombre": "BUZO SMA. TRINIDAD SECUNDARIO TALLE 3",
-        "precio": 26000,
+        "precio": 29900,
         "stock": 0
     },
     {
         "codigo": "022",
         "nombre": "BUZO SMA. TRINIDAD SECUNDARIO TALLE 4",
-        "precio": 27500,
+        "precio": 31700,
         "stock": 0
     },
     {
         "codigo": "023",
         "nombre": "BUZO SMA. TRINIDAD SECUNDARIO TALLE 5",
-        "precio": 29000,
+        "precio": 33400,
         "stock": 0
     },
     {
         "codigo": "024",
         "nombre": "BUZO SMA. TRINIDAD SECUNDARIO TALLE 6",
-        "precio": 30000,
+        "precio": 34500,
         "stock": 0
     },
     {
         "codigo": "025",
         "nombre": "CAMPERA DE VERANO SMA. TRINIDAD TALLE 2",
-        "precio": 21600,
+        "precio": 25000,
         "stock": 0
     },
     {
         "codigo": "026",
         "nombre": "CAMPERA DE VERANO SMA. TRINIDAD TALLE 4",
-        "precio": 21600,
+        "precio": 25000,
         "stock": 0
     },
     {
         "codigo": "027",
         "nombre": "CAMPERA DE VERANO SMA. TRINIDAD TALLE 6",
-        "precio": 21600,
+        "precio": 25000,
         "stock": 0
     },
     {
@@ -194,73 +194,73 @@
     {
         "codigo": "033",
         "nombre": "CAMPERA SMA. TRINIDAD PRIMARIO TALLE 4",
-        "precio": 28000,
+        "precio": 32200,
         "stock": 0
     },
     {
         "codigo": "034",
         "nombre": "CAMPERA SMA. TRINIDAD PRIMARIO TALLE 6",
-        "precio": 29000,
+        "precio": 33400,
         "stock": 0
     },
     {
         "codigo": "035",
         "nombre": "CAMPERA SMA. TRINIDAD PRIMARIO TALLE 8",
-        "precio": 30000,
+        "precio": 34000,
         "stock": 0
     },
     {
         "codigo": "036",
         "nombre": "CAMPERA SMA. TRINIDAD PRIMARIO TALLE 10",
-        "precio": 31000,
+        "precio": 35600,
         "stock": 0
     },
     {
         "codigo": "037",
         "nombre": "CAMPERA SMA. TRINIDAD PRIMARIO TALLE 12",
-        "precio": 32500,
+        "precio": 37400,
         "stock": 0
     },
     {
         "codigo": "038",
         "nombre": "CAMPERA SMA. TRINIDAD PRIMARIO TALLE 14",
-        "precio": 33000,
+        "precio": 38000,
         "stock": 0
     },
     {
         "codigo": "039",
         "nombre": "CAMPERA SMA. TRINIDAD SECUNDARIO TALLE 0",
-        "precio": 30000,
+        "precio": 34500,
         "stock": 0
     },
     {
         "codigo": "040",
         "nombre": "CAMPERA SMA. TRINIDAD SECUNDARIO TALLE 1",
-        "precio": 32400,
+        "precio": 37300,
         "stock": 0
     },
     {
         "codigo": "041",
         "nombre": "CAMPERA SMA. TRINIDAD SECUNDARIO TALLE 2",
-        "precio": 34500,
+        "precio": 39700,
         "stock": 0
     },
     {
         "codigo": "042",
         "nombre": "CAMPERA SMA. TRINIDAD SECUNDARIO TALLE 3",
-        "precio": 36000,
+        "precio": 42500,
         "stock": 0
     },
     {
         "codigo": "043",
         "nombre": "CAMPERA SMA. TRINIDAD SECUNDARIO TALLE 4",
-        "precio": 38000,
+        "precio": 43700,
         "stock": 0
     },
     {
         "codigo": "044",
         "nombre": "CAMPERA SMA. TRINIDAD SECUNDARIO TALLE 5",
-        "precio": 40000,
+        "precio": 46000,
         "stock": 0
     },
     {
@@ -374,403 +374,403 @@
     {
         "codigo": "063",
         "nombre": "CHOMBA SMA. TRINIDAD - AZUL TALLE 6",
-        "precio": 14500,
+        "precio": 16700,
         "stock": 0
     },
     {
         "codigo": "064",
         "nombre": "CHOMBA SMA. TRINIDAD - AZUL TALLE 8",
-        "precio": 15000,
+        "precio": 17250,
         "stock": 0
     },
     {
         "codigo": "065",
         "nombre": "CHOMBA SMA. TRINIDAD - AZUL TALLE 10",
-        "precio": 15500,
+        "precio": 17800,
         "stock": 0
     },
     {
         "codigo": "066",
         "nombre": "CHOMBA SMA. TRINIDAD - AZUL TALLE 12",
-        "precio": 16700,
+        "precio": 19200,
         "stock": 0
     },
     {
         "codigo": "067",
         "nombre": "CHOMBA SMA. TRINIDAD - AZUL TALLE 14",
-        "precio": 17000,
+        "precio": 19600,
         "stock": 0
     },
     {
         "codigo": "068",
         "nombre": "CHOMBA SMA. TRINIDAD - AZUL TALLE 16",
-        "precio": 18000,
+        "precio": 20700,
         "stock": 0
     },
     {
         "codigo": "069",
         "nombre": "CHOMBA SMA. TRINIDAD - BLANCA TALLE 10",
-        "precio": 15500,
+        "precio": 17800,
         "stock": 0
     },
     {
         "codigo": "070",
         "nombre": "CHOMBA SMA. TRINIDAD - BLANCA TALLE 12",
-        "precio": 16700,
+        "precio": 19200,
         "stock": 0
     },
     {
         "codigo": "071",
         "nombre": "CHOMBA SMA. TRINIDAD - BLANCA TALLE 14",
-        "precio": 17000,
+        "precio": 19600,
         "stock": 0
     },
     {
         "codigo": "072",
         "nombre": "CHOMBA SMA. TRINIDAD - BLANCA TALLE S",
-        "precio": 18000,
+        "precio": 20700,
         "stock": 0
     },
     {
         "codigo": "073",
         "nombre": "CHOMBA SMA. TRINIDAD - BLANCA TALLE M",
-        "precio": 18500,
+        "precio": 21300,
         "stock": 0
     },
     {
         "codigo": "074",
         "nombre": "CHOMBA SMA. TRINIDAD - BLANCA TALLE L",
-        "precio": 19000,
+        "precio": 22000,
         "stock": 0
     },
     {
         "codigo": "075",
         "nombre": "CHOMBA SMA. TRINIDAD - BLANCA TALLE XL",
-        "precio": 20000,
+        "precio": 23000,
         "stock": 1
     },
     {
         "codigo": "076",
         "nombre": "CHOMBA SMA. TRINIDAD - BLANCA TALLE XXL",
-        "precio": 20500,
+        "precio": 23600,
         "stock": 0
     },
     {
         "codigo": "077",
         "nombre": "CHOMBA SMA. TRINIDAD - ROJA TALLE 4",
-        "precio": 14000,
+        "precio": 16100,
         "stock": 0
     },
     {
         "codigo": "078",
         "nombre": "CHOMBA SMA. TRINIDAD - ROJA TALLE 6",
-        "precio": 14500,
+        "precio": 16700,
         "stock": 0
     },
     {
         "codigo": "079",
         "nombre": "CHOMBA SMA. TRINIDAD - ROJA TALLE 8",
-        "precio": 15000,
+        "precio": 17300,
         "stock": 0
     },
     {
         "codigo": "080",
         "nombre": "CHOMBA SMA. TRINIDAD - ROJA TALLE 10",
-        "precio": 15500,
+        "precio": 17800,
         "stock": 0
     },
     {
         "codigo": "081",
         "nombre": "CHOMBA SMA. TRINIDAD - ROJA TALLE 12",
-        "precio": 16700,
+        "precio": 19200,
         "stock": 0
     },
     {
         "codigo": "082",
         "nombre": "CHOMBA SMA. TRINIDAD - ROJA TALLE 14",
-        "precio": 17000,
+        "precio": 19600,
         "stock": 0
     },
     {
         "codigo": "083",
         "nombre": "CHOMBA SMA. TRINIDAD - ROJA TALLE S",
-        "precio": 18000,
+        "precio": 20700,
         "stock": 0
     },
     {
         "codigo": "084",
         "nombre": "CHOMBA SMA. TRINIDAD - ROJA TALLE M",
-        "precio": 18500,
+        "precio": 21300,
         "stock": 0
     },
     {
         "codigo": "085",
         "nombre": "CHOMBA SMA. TRINIDAD - ROJA TALLE L",
-        "precio": 19000,
+        "precio": 22000,
         "stock": 0
     },
     {
         "codigo": "086",
         "nombre": "CHOMBA SMA. TRINIDAD - ROJA TALLE XL",
-        "precio": 20000,
+        "precio": 23000,
         "stock": 0
     },
     {
         "codigo": "087",
         "nombre": "CHOMBA SMA. TRINIDAD - ROJA TALLE XXL",
-        "precio": 20500,
+        "precio": 23600,
         "stock": 0
     },
     {
         "codigo": "088",
         "nombre": "MEDIAS AZULES TALLE 2",
-        "precio": 2500,
+        "precio": 3500,
         "stock": 0
     },
     {
         "codigo": "089",
         "nombre": "MEDIAS AZULES TALLE 3",
-        "precio": 2500,
+        "precio": 3500,
         "stock": 0
     },
     {
         "codigo": "090",
         "nombre": "MEDIAS AZULES TALLE 4",
-        "precio": 2500,
+        "precio": 3500,
         "stock": 0
     },
     {
         "codigo": "091",
         "nombre": "MEDIAS AZULES TALLE 5",
-        "precio": 2500,
+        "precio": 3500,
         "stock": 0
     },
     {
         "codigo": "092",
         "nombre": "MEDIAS BLANCAS TALLE 2",
-        "precio": 2500,
+        "precio": 3500,
         "stock": 0
     },
     {
         "codigo": "093",
         "nombre": "MEDIAS BLANCAS TALLE 3",
-        "precio": 2500,
+        "precio": 3500,
         "stock": 0
     },
     {
         "codigo": "094",
         "nombre": "MEDIAS BLANCAS TALLE 4",
-        "precio": 2500,
+        "precio": 3500,
         "stock": 0
     },
     {
         "codigo": "095",
         "nombre": "MEDIAS BLANCAS TALLE 5",
-        "precio": 2500,
+        "precio": 3500,
         "stock": 0
     },
     {
         "codigo": "096",
         "nombre": "MEDIAS ROJAS TALLE 2",
-        "precio": 2500,
+        "precio": 3500,
         "stock": 0
     },
     {
         "codigo": "097",
         "nombre": "MEDIAS ROJAS TALLE 3",
-        "precio": 2500,
+        "precio": 3500,
         "stock": 0
     },
     {
         "codigo": "098",
         "nombre": "MEDIAS ROJAS TALLE 4",
-        "precio": 2500,
+        "precio": 3500,
         "stock": 0
     },
     {
         "codigo": "099",
         "nombre": "MEDIAS ROJAS TALLE 5",
-        "precio": 2500,
+        "precio": 3500,
         "stock": 0
     },
     {
         "codigo": "100",
         "nombre": "PANTALÓN DE JOGGING AZUL TALLE 2",
-        "precio": 15000,
+        "precio": 17300,
         "stock": 0
     },
     {
         "codigo": "101",
         "nombre": "PANTALÓN DE JOGGING AZUL TALLE 4",
-        "precio": 15500,
+        "precio": 17800,
         "stock": 0
     },
     {
         "codigo": "102",
         "nombre": "PANTALÓN DE JOGGING AZUL TALLE 6",
-        "precio": 16000,
+        "precio": 18500,
         "stock": 0
     },
     {
         "codigo": "103",
         "nombre": "PANTALÓN DE JOGGING AZUL TALLE 8",
-        "precio": 16500,
+        "precio": 19000,
         "stock": 0
     },
     {
         "codigo": "104",
         "nombre": "PANTALÓN DE JOGGING AZUL TALLE 10",
-        "precio": 18500,
+        "precio": 21300,
         "stock": 0
     },
     {
         "codigo": "105",
         "nombre": "PANTALÓN DE JOGGING AZUL TALLE 12",
-        "precio": 20000,
+        "precio": 23000,
         "stock": 0
     },
     {
         "codigo": "106",
         "nombre": "PANTALÓN DE JOGGING AZUL TALLE 14",
-        "precio": 21000,
+        "precio": 24200,
         "stock": 0
     },
     {
         "codigo": "107",
         "nombre": "PANTALÓN DE JOGGING GRIS TALLE 6",
-        "precio": 16000,
+        "precio": 18500,
         "stock": 0
     },
     {
         "codigo": "108",
         "nombre": "PANTALÓN DE JOGGING GRIS TALLE 8",
-        "precio": 16500,
+        "precio": 19000,
         "stock": 0
     },
     {
         "codigo": "109",
         "nombre": "PANTALÓN DE JOGGING GRIS TALLE 10",
-        "precio": 18500,
+        "precio": 21300,
         "stock": 0
     },
     {
         "codigo": "110",
         "nombre": "PANTALÓN DE JOGGING GRIS TALLE 12",
-        "precio": 20000,
+        "precio": 23000,
         "stock": 0
     },
     {
         "codigo": "111",
         "nombre": "PANTALÓN DE JOGGING GRIS TALLE 14",
-        "precio": 21000,
+        "precio": 24200,
         "stock": 0
     },
     {
         "codigo": "112",
         "nombre": "PANTALÓN DE VESTIR DAMA TALLE 8/10",
-        "precio": 24000,
+        "precio": 27600,
         "stock": 0
     },
     {
         "codigo": "113",
         "nombre": "PANTALÓN DE VESTIR DAMA TALLE 0",
-        "precio": 27000,
+        "precio": 31000,
         "stock": 0
     },
     {
         "codigo": "114",
         "nombre": "PANTALÓN DE VESTIR DAMA TALLE 1",
-        "precio": 28000,
+        "precio": 32200,
         "stock": 0
     },
     {
         "codigo": "115",
         "nombre": "PANTALÓN DE VESTIR DAMA TALLE 2",
-        "precio": 30000,
+        "precio": 34500,
         "stock": 0
     },
     {
         "codigo": "116",
         "nombre": "PANTALÓN DE VESTIR DAMA TALLE 3",
-        "precio": 31500,
+        "precio": 36300,
         "stock": 0
     },
     {
         "codigo": "117",
         "nombre": "PANTALÓN DE VESTIR DAMA TALLE 4",
-        "precio": 33000,
+        "precio": 38000,
         "stock": 0
     },
     {
         "codigo": "118",
         "nombre": "PANTALÓN DE VESTIR DAMA TALLE 5",
-        "precio": 34500,
+        "precio": 39700,
         "stock": 0
     },
     {
         "codigo": "119",
         "nombre": "PANTALÓN DE VESTIR DAMA TALLE 6",
-        "precio": 36000,
+        "precio": 41400,
         "stock": 0
     },
     {
         "codigo": "120",
         "nombre": "PANTALÓN DE VESTIR DAMA TALLE 7",
-        "precio": 36000,
+        "precio": 41400,
         "stock": 1
     },
     {
         "codigo": "121",
         "nombre": "PANTALÓN DE VESTIR DAMA TALLE 8",
-        "precio": 36000,
+        "precio": 41400,
         "stock": 0
     },
     {
         "codigo": "122",
         "nombre": "PANTALÓN DE VESTIR DAMA TALLE XL",
-        "precio": 37000,
+        "precio": 42600,
         "stock": 0
     },
     {
         "codigo": "123",
         "nombre": "PANTALÓN DE VESTIR DAMA TALLE XXL",
-        "precio": 37000,
+        "precio": 42600,
         "stock": 0
     },
     {
         "codigo": "124",
         "nombre": "PANTALÓN GRIS DAMA TALLE 0",
-        "precio": 21400,
+        "precio": 24500,
         "stock": 0
     },
     {
         "codigo": "125",
         "nombre": "PANTALÓN GRIS DAMA TALLE 1",
-        "precio": 22500,
+        "precio": 25900,
         "stock": 0
     },
     {
         "codigo": "126",
         "nombre": "PANTALÓN GRIS DAMA TALLE 2",
-        "precio": 23800,
+        "precio": 27400,
         "stock": 0
     },
     {
         "codigo": "127",
         "nombre": "PANTALÓN GRIS DAMA TALLE 3",
-        "precio": 24300,
+        "precio": 27900,
         "stock": 0
     },
     {
         "codigo": "128",
         "nombre": "PANTALÓN GRIS DAMA TALLE 4",
-        "precio": 24600,
+        "precio": 28300,
         "stock": 0
     },
     {
         "codigo": "129",
         "nombre": "PANTALÓN GRIS DAMA TALLE 5",
-        "precio": 25000,
+        "precio": 28800,
         "stock": 0
     },
     {
@@ -854,79 +854,79 @@
     {
         "codigo": "143",
         "nombre": "SET DE NIÑA",
-        "precio": 3500,
+        "precio": 4000,
         "stock": 0
     },
     {
         "codigo": "144",
         "nombre": "SET DE NIÑO",
-        "precio": 3500,
+        "precio": 4000,
         "stock": 0
     },
     {
         "codigo": "145",
         "nombre": "SHORT AZUL TALLE 2",
-        "precio": 6000,
+        "precio": 8000,
         "stock": 0
     },
     {
         "codigo": "146",
         "nombre": "SHORT AZUL TALLE 4",
-        "precio": 6000,
+        "precio": 8000,
         "stock": 0
     },
     {
         "codigo": "147",
         "nombre": "SHORT AZUL TALLE 6",
-        "precio": 6000,
+        "precio": 8000,
         "stock": 0
     },
     {
         "codigo": "148",
         "nombre": "SHORT AZUL TALLE 8",
-        "precio": 6000,
+        "precio": 8000,
         "stock": 0
     },
     {
         "codigo": "149",
         "nombre": "SHORT AZUL TALLE 10",
-        "precio": 6000,
+        "precio": 8000,
         "stock": 0
     },
     {
         "codigo": "150",
         "nombre": "PINTOR SMA. TRINIDAD - NIÑO TALLE 1",
-        "precio": 29700,
+        "precio": 34200,
         "stock": 0
     },
     {
         "codigo": "151",
         "nombre": "PINTOR SMA. TRINIDAD - NIÑO TALLE 2",
-        "precio": 29700,
+        "precio": 34200,
         "stock": 0
     },
     {
         "codigo": "152",
         "nombre": "PINTOR SMA. TRINIDAD - NIÑO TALLE 3",
-        "precio": 29700,
+        "precio": 34200,
         "stock": 0
     },
     {
         "codigo": "153",
         "nombre": "PINTOR SMA TRINIDAD - NIÑA TALLE 1",
-        "precio": 29700,
+        "precio": 34200,
         "stock": 0
     },
     {
         "codigo": "154",
         "nombre": "PINTOR SMA TRINIDAD - NIÑA TALLE 2",
-        "precio": 29700,
+        "precio": 34200,
         "stock": 0
     },
     {
         "codigo": "155",
         "nombre": "PINTOR SMA TRINIDAD - NIÑA TALLE 3",
-        "precio": 29700,
+        "precio": 34200,
         "stock": 0
     }
 ]
