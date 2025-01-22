@@ -326,13 +326,13 @@
     {
         "codigo": "055",
         "nombre": "CHOMBA LORETO TALLE 10",
-        "precio": 15500,
+        "precio": 22500,
         "stock": 0
     },
     {
         "codigo": "056",
         "nombre": "CHOMBA LORETO TALLE 12",
-        "precio": 16700,
+        "precio": 23150,
         "stock": 0
     },
     {
@@ -896,7 +896,7 @@
     {
         "codigo": "150",
         "nombre": "PINTOR SMA. TRINIDAD - NIÑO TALLE 1",
-        "precio": 34200,
+        "precio": 44500,
         "stock": 0
     },
     {
